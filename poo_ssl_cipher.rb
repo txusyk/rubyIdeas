@@ -85,3 +85,4 @@ class POO_ssl_cipher
 end
 
 POO_ssl_cipher.new
+
